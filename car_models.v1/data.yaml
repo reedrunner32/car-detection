@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['-', '- annotate- and create datasets', '- collaborate with your team on computer vision projects', '- collect - organize images', '- export- train- and deploy computer vision models', '- understand and search unstructured image data', '- use active learning to improve your dataset over time', 'Roboflow is an end-to-end computer vision platform that helps you', 'This dataset was exported via roboflow.com on February 9- 2024 at 3-03 PM GMT', 'car_models - v1 2023-10-05 3-03pm']
+
+roboflow:
+  workspace: practice-fr5q7
+  project: car_models-s6uma
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/practice-fr5q7/car_models-s6uma/dataset/1
